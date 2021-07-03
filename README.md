@@ -7,5 +7,7 @@ En este curso vemos de todo
 * El flujo de trabajo de git
 * El amor verdadero por las buenas prácticas
 * Creado por Maria Jaramillo en el curso de Platzi
+* Incluye ejemplos en Windows y mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**,  si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/)
